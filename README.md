@@ -1,4 +1,4 @@
-# ML-learning-note
+# ML-Learning-Journey
 
 > 李宏毅《机器学习》深度学习部分 · 学习笔记与代码实现
 
@@ -8,9 +8,10 @@
 
 
 ## 📁 目录结构
-ML-learning-note/
-├── Lecture_Notes/ # 章节笔记（手推+总结）
-├── Code/ # 代码复现与作业
-└── Weekly_Reports/ # 每周学习周报存档
-
-
+ML-Learning-Journey/  
+├── Lecture_Notes/             
+│   ├── pytorch/              
+│   └── 李宏毅机器学习/        #   李宏毅《机器学习》基础概念（
+├── code/                     # 代码复现与作业  
+│   └── pytorch/              #   与笔记一一对应的代码实现  
+└── Weekly_Reports/           # 每周学习周报存档  
