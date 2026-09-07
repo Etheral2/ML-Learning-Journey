@@ -11,7 +11,7 @@
 ML-Learning-Journey/  
 ├── Lecture_Notes/             
 │   ├── pytorch/              
-│   └── 李宏毅机器学习/        #   李宏毅《机器学习》基础概念（
+│   └── 李宏毅机器学习/        #   李宏毅《机器学习》基础概念  
 ├── code/                     # 代码复现与作业  
 │   └── pytorch/              #   与笔记一一对应的代码实现  
 └── Weekly_Reports/           # 每周学习周报存档  
