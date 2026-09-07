@@ -10,7 +10,7 @@
 ## 📁 目录结构
 ML-learning-note/
 ├── Lecture_Notes/ # 章节笔记（手推+总结）
-├── Code_Exercises/ # 代码复现与作业
+├── Code/ # 代码复现与作业
 └── Weekly_Reports/ # 每周学习周报存档
 
 
